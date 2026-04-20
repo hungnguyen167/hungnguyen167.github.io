@@ -1,34 +1,31 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"breznau":
+  - firstname: ["Nate", "N.", "Nathan"]
+    url: https://nate9j.github.io/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"rinke":
+  - firstname: ["Eike Mark", "E. M.", "Eike"]
+    url: https://scholar.google.com/citations?user=eike-rinke
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"wuttke":
+  - firstname: ["Alexander", "A."]
+    url: https://www.alexanderwuttke.com/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"heukamp":
+  - firstname: ["Lisa", "L."]
+    url: https://scholar.google.com/citations?user=heukamp-lisa
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"knuf":
+  - firstname: ["Tom", "T."]
+    url: https://scholar.google.com/citations?user=knuf-tom
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"short":
+  - firstname: ["Cassie Ann", "Cassie", "C. A.", "C."]
+    url: https://scholar.google.com/citations?user=short-cassie
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"manow":
+  - firstname: ["Philip", "P."]
+    url: https://www.uni-siegen.de/phil/politikwissenschaft/manow/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"mueller":
+  - firstname: ["Stefan", "S."]
+    url: https://muellerstefan.net/
